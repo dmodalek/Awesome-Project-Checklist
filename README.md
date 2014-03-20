@@ -1,15 +1,13 @@
 # Awesome Project Checklist
 
-## Project start
-
-### Get customer details
+## Get customer details
 - Contact details & invoice address
 - Email address that should be used for forms
 - Browser used by the customer
 - Hosting & domain accounts
 - Google Analytics account
 
-### Design review
+## Design review
 - Get the styleguide and check for consistency
 - Often forgotten: Form Validation and success/srror messages, states (open and closed navigation, focus/hover/active styles), 404 error page
 - Get assets
