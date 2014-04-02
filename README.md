@@ -21,6 +21,7 @@
 ## Develop
 - Start with the grid and base styles (elements, colors, typo)
 - Add Google Analytics
+- Add Imprint and Analytics Disclaimer
 
 ## Preview and Deploy
 - Add Beanstalk deployment as "Preview" envirenment
